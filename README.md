@@ -1,9 +1,8 @@
 # ✨ Manoj Priyashantha ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%7C+Java+%7C+MERN+Stack;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor;Passionate+about+Coding!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer+%7C+Java+%7C+MERN+Stack;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor;Passionate+about+Coding%21+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👋 Hi there!  
