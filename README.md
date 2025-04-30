@@ -3,18 +3,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Software+Engineer+%7C+Java+%7C+MERN+Stack;Tech+Enthusiast+%7C+Problem+Solver;Open+Source+Contributor;Passionate+about+Coding%21+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 👋 Hi there!  
-I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about **Java development, software engineering, and full-stack web applications**. This repository showcases my **projects, contributions, and coding journey**.  
+I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about **Java development, software engineering, and full-stack web applications**. This repository showcases my **projects, contributions, and coding journey**.
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </p>
 
 ---
