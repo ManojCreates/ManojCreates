@@ -7,11 +7,12 @@
 ---
 
 ## 👋 Hi there!  
-I’m **Manoj Priyashantha**, an **undergraduate IT student** with a passion for **Java development**, **software engineering**, and **full-stack web development**. This repository showcases my **projects**, **contributions**, and **coding journey**.
+I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about **Java development, software engineering, and full-stack web applications**. This repository showcases my **projects, contributions, and coding journey**.
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
@@ -21,7 +22,7 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** with a passion for
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Programming Languages  
+### 🚀 Programming & Development  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> &nbsp;
@@ -59,13 +60,13 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** with a passion for
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/manojpriyashantha" target="_blank">
+  <a href="https://www.linkedin.com/in/manojpriyashantha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ManojCreates" target="_blank">
+  <a href="https://github.com/ManojCreates">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:manojdulanjana7678@gmail.com" target="_blank">
+  <a href="mailto:manojdulanjana7678@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
