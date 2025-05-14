@@ -6,59 +6,66 @@
 
 ---
 
-## 👋 Hi there!  
+## 👋 Hi there!
+
 I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about **Java development, software engineering, and full-stack web applications**. This repository showcases my **projects, contributions, and coding journey**.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="160" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🚀 Programming & Development  
+### 🚀 Programming & Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 </p>
 
-### 🌐 Web Development  
+### 🌐 Web Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
 </p>
 
-### 📂 Databases & Backend  
+### 📂 Databases & Backend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 </p>
 
-### ⚙️ Tools & Frameworks  
+### ⚙️ Tools & Frameworks
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="Spring logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
 </p>
 
 ---
 
-## 🔥 Fun GIF  
+## 🔥 Fun GIF
+
 <p align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Funny coding GIF" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/manojpriyashantha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
