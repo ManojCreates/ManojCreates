@@ -14,8 +14,8 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about *
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://YOUR-VERCEL-URL/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://YOUR-VERCEL-URL/api/top-langs/?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </p>
 
 ---
