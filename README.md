@@ -7,7 +7,7 @@
 ---
 
 ## 👋 Hi there!  
-I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about **Java development, software engineering, and full-stack web applications**. This repository showcases my **projects, contributions, and coding journey**.
+I’m **Manoj Priyashantha**, an **undergraduate IT student** with a passion for **Java development**, **software engineering**, and **full-stack web development**. This repository showcases my **projects**, **contributions**, and **coding journey**.
 
 ---
 
@@ -21,7 +21,7 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about *
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Programming & Development  
+### 🚀 Programming Languages  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> &nbsp;
@@ -59,13 +59,13 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about *
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/manojpriyashantha">
+  <a href="https://www.linkedin.com/in/manojpriyashantha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ManojCreates">
+  <a href="https://github.com/ManojCreates" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:manojdulanjana7678@gmail.com">
+  <a href="mailto:manojdulanjana7678@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
