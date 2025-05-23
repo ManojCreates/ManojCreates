@@ -15,8 +15,13 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about *
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojCreates&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged" alt="GitHub Stats" style="max-width: 100%; margin: 10px;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManojCreates&layout=compact&langs_count=6&theme=dracula&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" style="max-width: 100%; margin: 10px;" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojCreates&theme=dracula&hide_border=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" style="max-width: 100%; margin: 10px;" />
 </p>
 
 ---
@@ -43,7 +48,7 @@ I’m **Manoj Priyashantha**, an **undergraduate IT student** passionate about *
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB2 logo" />
 </p>
 
 ### ⚙️ Tools & Frameworks
